@@ -1,0 +1,13 @@
+body
+{
+    margin: 425px;
+    padding: 0px;
+    background-image: url(../images/background/1.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+  background-repeat: no-repeat;
+  height: 100%;
+    
+
+}

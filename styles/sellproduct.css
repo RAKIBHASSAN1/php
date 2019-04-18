@@ -1,0 +1,123 @@
+
+form
+{
+    border: 1px solid black;
+    width: 520px;
+    height:370px;
+    margin-top: -300px;
+    margin-left: -30px;
+    background-color: black;
+    position: fixed;
+    color: white;
+}
+form  p
+{
+    margin-left: 105px;
+    font-size: 25px;
+    font-style: bold;
+}
+.n1
+{
+    margin-left: 50px;
+}
+.n1  label
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.n1 #name
+{
+    margin-left: 50px;
+}
+.n2
+{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.n2  label
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.n2 #address
+{
+    margin-left: 28px;
+}
+.n3
+{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.n3  label
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.n3 #phone_number
+{
+    margin-left: 10px;
+}
+.n4
+{
+    margin-top: 5px;
+    margin-left: 50px;
+}
+.n4  label
+{
+    font-size: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.n4 #email
+{
+    margin-left: 55px;
+}
+.button
+{
+    margin-top: 45px;
+    margin-left: 250px;
+    
+}
+.button button
+{
+    background-color:gray;
+    width:70px;
+    font-size: 25px;
+    
+}
+.button button:hover
+{
+    background-color:red;
+    width:70px;
+    font-size: 25px;
+    
+}
+
+.button #j2
+{
+   margin-left:10px;
+   margin-right:25px;
+   font-size: 25px;
+   text-align: center;
+   border: 4px solid gray;
+   color: black;
+   background-color:gray;
+   text-decoration: none;
+    
+}
+.button #j2:hover
+{
+    background-color:red;
+    
+}
+body
+{
+    margin: 425px;
+    padding: 0px;
+    background-image: url(../images/background/2.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+  background-repeat: no-repeat;
+  height: 100%;
+    
+}

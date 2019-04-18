@@ -1,0 +1,86 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+
+.raq
+{
+    margin-top: 150px;
+    margin-left: 450px;
+    background-color: blue;
+    width:380px;
+    height:350px;
+}
+#raq1
+{
+    margin-top: -330px;
+    margin-left: 470px;
+    background-color:black;
+    width:330px;
+    height:50px;
+    
+}
+#result
+{
+    
+    width: 300px;
+    box-sizing: border-box;
+    height: 30px;
+    margin-top:10px;
+    margin-left:15px;
+    background-color:white;
+    color: black;
+
+}
+#raq5
+{
+    margin-top:10px;
+    margin-left: 470px;
+    background-color:blueviolet;
+    width:330px;
+    height:250px;
+}
+#raq5 #n1
+{
+    margin-left:20px;
+    margin-top: 20px;
+}
+#raq5 #n2
+{
+    margin-left:20px;
+    margin-top: 40px;
+}
+#operators
+{
+    margin-left: 20px;
+}
+#raq5 button
+{
+    width:170px;
+    
+}
+#raq5 #k2
+{
+    float: right;
+    margin-left: 20px;
+    margin-top: 70px;
+    
+}
+#raq5 #k2:hover
+{
+    
+   
+    background-color:red;
+    width:50px;
+    
+}
+body
+{
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../images/background/2.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+}

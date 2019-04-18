@@ -1,0 +1,92 @@
+#n
+{
+margin-left: 180px;
+margin-top: 5px;
+border: 1px solid black;
+width:900px;
+height:700px;
+background-color:black;
+color:white;
+}
+#n #n1
+{
+margin-left: 270px;
+font-size: 20px;
+font-style: italic bold ;
+background-color: blue;
+width:350px;
+color: white;
+
+}
+#n #n2
+{
+margin-left: 100px;
+font-size: 15px;
+}
+#n #n3
+{
+margin-left: 100px;
+font-size: 15px;
+}
+#n #n4
+{
+margin-left: 100px;
+font-size: 20px;
+font-style: italic bold ;
+}
+#n #n5
+{
+margin-left: 100px;
+
+}
+#n #n6
+{
+margin-left: 100px;
+font-size: 20px;
+font-style: italic bold ;
+}
+#n #n7
+{
+margin-left: 100px;
+
+}
+#n #n8
+{
+margin-left: 100px;
+font-size: 20px;
+font-style: italic bold ;
+}
+#n #n9
+{
+margin-left: 100px;
+
+}
+#n #n10
+{
+margin-left: 100px;
+font-size: 20px;
+font-style: italic bold ;
+}
+#n #n11
+{
+margin-left: 100px;
+
+}
+#n #n12
+{
+margin-left: 800px;
+font-size: 30px;
+text-decoration: none;
+color: black;
+background-color: blue;
+width:60px;
+
+}
+#n #n12:hover
+{
+
+color:white;
+background-color:red;
+width:60px;
+
+}
